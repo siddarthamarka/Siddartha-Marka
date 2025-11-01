@@ -1,55 +1,69 @@
-# Siddartha-Marka
-# 👋 Hi, I'm Siddartha Marka  
+<h1 align="center">👋 Hi, I'm Siddartha Marka</h1>
 
-🎓 **B.Tech in Computer Science and Engineering (IoT)**  
-📍 *Kakatiya Institute of Technology and Science, Warangal*  
-💻 Passionate about building intelligent, data-driven, and IoT-powered solutions  
-
----
-
-## 🚀 About Me  
-- 💡 Interested in **Machine Learning**, **Full-Stack Development (MERN)**, and **IoT Systems**  
-- 🧠 Experienced in developing **smart applications** integrating hardware and AI  
-- ⚙️ Skilled at **Python, JavaScript, Node.js, React.js, Flask, and MongoDB**  
-- 🔬 Research Intern @ **Symbiosis Institute of Technology, Hyderabad** — *IoT & Computer Vision*  
-- 💼 ML Intern @ **SDK Technologies** — *Developed “Soil Colour Analyzer – ML Web App”*  
-- 🌐 MERN Stack Intern @ **Shripadha Group** — *Built “Expense Tracker” full-stack web app*  
-- 🧩 Enthusiastic learner, Hackathon participant, and open-source contributor  
+<p align="center">
+  <b>B.Tech CSE (Internet of Things) | Machine Learning | MERN Stack | IoT Innovator</b><br>
+  <i>Passionate about creating intelligent, scalable, and connected systems</i>
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages:** Python, C/C++, JavaScript, HTML, CSS  
-**Frameworks:** React.js, Node.js, Express.js, Flask  
-**Databases:** MongoDB, MySQL  
-**Machine Learning:** scikit-learn, Pandas, NumPy, OpenCV, XGBoost  
-**IoT Tools:** ESP32, Arduino, Sensors (MAX30100, MLX90614, GSR, GPS, GSM)  
-**Version Control:** Git, GitHub  
-**Other Tools:** Streamlit, Flask, Power BI, VS Code  
+### 🧑‍💻 About Me  
+- 🎓 Pursuing **B.Tech in Computer Science and Engineering (IoT)** at **KITS Warangal**  
+- 💡 Keen interest in **Machine Learning**, **Full Stack Development (MERN)**, and **IoT Applications**  
+- ⚙️ Experienced with **Python, React.js, Node.js, Flask, and IoT Hardware**  
+- 🔬 **Research Intern @ Symbiosis Institute of Technology, Hyderabad** – *IoT & Computer Vision*  
+- 💼 **Machine Learning Intern @ SDK Technologies** – *Developed Soil Colour Analyzer Web App*  
+- 🌐 **MERN Stack Intern @ Shripadha Group** – *Built Expense Tracker with analytics dashboard*  
+- 🧠 Constantly learning, experimenting, and contributing to open-source  
 
 ---
 
-## 📚 Projects  
-- 🔹 **IoT-Based Vehicle Accident Detection System** – Real-time visual logging and emergency response analytics  
-- 🔹 **Soil Colour Analyzer (ML Web App)** – Image-based soil type & fertility classification using ML  
-- 🔹 **Expense Tracker (MERN App)** – Personal finance tracker with budgeting & analytics dashboard  
-- 🔹 **Smart Insurance Fraud Detection System** – ML-based fraud classification with SHAP explainability  
+### 🛠️ Tech Stack  
+💻 **Languages:** Python, JavaScript, C/C++, HTML, CSS  
+⚙️ **Frameworks:** React.js, Node.js, Express.js, Flask  
+🧩 **Databases:** MongoDB, MySQL  
+🤖 **Machine Learning:** scikit-learn, OpenCV, XGBoost, Pandas, NumPy  
+🔗 **IoT Tools:** ESP32, Arduino, Sensors (MAX30100, MLX90614, GSR, GPS, GSM)  
+🧰 **Tools:** Git, GitHub, Streamlit, Power BI, VS Code  
 
 ---
 
-## 🏆 Achievements & Activities  
+### 🚀 Featured Projects  
+- 🔹 **IoT-Based Vehicle Accident Detection System** – Real-time visual logging & emergency response  
+- 🔹 **Soil Colour Analyzer (ML Web App)** – Image-based soil and fertility classification  
+- 🔹 **Expense Tracker (MERN App)** – Personal finance management & analytics dashboard  
+- 🔹 **Smart Insurance Fraud Detection System** – ML-powered fraud prediction & explainable AI  
+
+---
+
+### 🏆 Achievements  
 - 🥇 Reached **Phase 2** of **Smart India Hackathon (2023 & 2024)**  
-- 🧩 **Top 10% academic performer** in the department  
-- 🔍 Published research paper in **Springer Nature – Water Conservation Science and Engineering**  
-- 🧠 Organized & participated in multiple technical events and hackathons  
+- 🧩 Ranked in **Top 10%** academically in department  
+- 📘 Published paper in **Springer Nature – Water Conservation Science and Engineering**  
+- ⚡ Organized and participated in multiple hackathons and research events  
 
 ---
 
-## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/siddartha-marka-27710a2a8/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siddarthamarka)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddarthamarka@gmail.com)  
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddarthamarka&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddarthamarka&theme=radical" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddarthamarka&layout=compact&theme=radical" height="165">
+</p>
 
 ---
 
-⭐ *“Building solutions that connect the digital and physical worlds through code, data, and innovation.”*  
+### 🤝 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/siddarthamarka" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:siddarthamarka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/siddarthamarka"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"></a>
+</p>
+
+---
+
+⭐ *“Transforming ideas into intelligent systems through data, design, and code.”*
