@@ -22,21 +22,21 @@ I’m also a **published author in Springer Nature** and have interned with repu
 ## 💼 Internships  
 
 ### 🌐 MERN Stack Development Intern – Shripadha Group *(May 2025 – Jul 2025)*  
-Built **Expense Tracker Web App** using **React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT**.  
-Added expense categorization, budgeting, and export options (CSV/PDF).  
-Designed **Chart.js** dashboards for spending insights with real-time analytics.  
+         Built **Expense Tracker Web App** using **React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT**.  
+         Added expense categorization, budgeting, and export options (CSV/PDF).  
+         Designed **Chart.js** dashboards for spending insights with real-time analytics.  
 
 ### 🤖 Machine Learning Intern – SDK Technologies *(Jun 2025 – Jul 2025)*  
-- Developed **“Soil Colour Analyzer”**, an ML web app to predict soil type & fertility using **Flask, OpenCV, scikit-learn**.  
-- Integrated REST APIs, image-based color feature extraction, and **CSV report generation**.  
+         Developed **“Soil Colour Analyzer”**, an ML web app to predict soil type & fertility using **Flask, OpenCV, scikit-learn**.  
+         Integrated REST APIs, image-based color feature extraction, and **CSV report generation**.  
 
 ### 🔬 Research Intern – Symbiosis Institute of Technology, Hyderabad *(May 2025 – Jul 2025)*  
-- Worked on **“IoT-Based Vehicle Accident Detection System with Real-Time Visual Logging”**.  
-- Contributed to **research paper authoring, literature review, and IEEE/Scopus formatting** under **Dr. Kiran Siripuri**.  
+         Worked on **“IoT-Based Vehicle Accident Detection System with Real-Time Visual Logging”**.  
+         Contributed to **research paper authoring, literature review, and IEEE/Scopus formatting** under **Dr. Kiran Siripuri**.  
 
 ### 🌐 Cisco Networking Academy (AICTE Virtual Internship)  
-- Learned **Cybersecurity Essentials** and network simulation using **Cisco Packet Tracer**.  
-- Designed, configured, and tested **network topologies** and security configurations.
+         Learned **Cybersecurity Essentials** and network simulation using **Cisco Packet Tracer**.  
+         Designed, configured, and tested **network topologies** and security configurations.
 
 ---
 
@@ -44,44 +44,44 @@ Designed **Chart.js** dashboards for spending insights with real-time analytics.
 
 ### 💸 Expense Tracker (MERN Stack)
 **Tech:** React.js, Express.js, Node.js, MongoDB, Chart.js, Tailwind CSS, JWT  
-- Built a responsive, full-stack expense management system with category tracking, budgeting, recurring expenses, and export options.  
-- Designed real-time **financial analytics dashboard** using Chart.js for spending visualization.  
+  Built a responsive, full-stack expense management system with category tracking, budgeting, recurring expenses, and export options.  
+  Designed real-time **financial analytics dashboard** using Chart.js for spending visualization.  
 
 ---
 
 ### 🌱 Soil Colour Analyzer – ML Web Application  
 **Tech:** Flask, OpenCV, NumPy, scikit-learn, Google Drive API, Pandas  
-- Developed a tool that classifies **soil fertility & moisture** using image color feature extraction (RGB/HSV/Lab).  
-- Integrated **Google Drive API** for cloud image scanning and **CSV report generation** with recommendations.  
+  Developed a tool that classifies **soil fertility & moisture** using image color feature extraction (RGB/HSV/Lab).  
+  Integrated **Google Drive API** for cloud image scanning and **CSV report generation** with recommendations.  
 
 ---
 
 ### 💧 Groundwater Level Prediction Web App  
 **Tech:** Flask, Python, Scikit-learn, Random Forest  
-- Predicted **borewell depth in Telangana** using hydrogeological data.  
-- Implemented real-time UI with **Flask-based REST API** for regional predictions.  
+  Predicted **borewell depth in Telangana** using hydrogeological data.  
+  Implemented real-time UI with **Flask-based REST API** for regional predictions.  
 
 ---
 
 ### 🌾 Automatic Irrigation and Fertilization System  
 **Tech:** IoT, Flask, React.js, MQTT, ESP32, Sensors  
-- Designed a smart greenhouse automation system for optimized **irrigation & nutrient delivery**.  
-- Built dashboards with **historical analytics**, real-time control, and automation triggers.  
+  Designed a smart greenhouse automation system for optimized **irrigation & nutrient delivery**.  
+  Built dashboards with **historical analytics**, real-time control, and automation triggers.  
 
 ---
 
 ### 🚗 Vehicle Accident Detection & Response System  
 **Tech:** Arduino Uno, ESP32-CAM, SIM800L, GPS, GSM, IoT  
-- Detected accidents using **MEMS & ultrasonic sensors**, triggered **SMS alerts** with GPS coordinates.  
-- Recorded 20-second videos using **ESP32-CAM**, automatically uploaded to **Google Drive**.  
+  Detected accidents using **MEMS & ultrasonic sensors**, triggered **SMS alerts** with GPS coordinates.  
+  Recorded 20-second videos using **ESP32-CAM**, automatically uploaded to **Google Drive**.  
 
 ---
 
 ### 🧠 Predictive Maintenance using IoT & ML  
 **Tech:** ESP32, IoT Sensors, Python, Random Forest, SVM, Gradient Boosting, Edge AI  
-- Monitored vehicle health (engine, brake, oil, etc.) in real time via sensor networks.  
-- Achieved **86% accuracy** in predicting failures using supervised ML models.  
-- Deployed models on **edge devices** for fleet-wide scalability and instant alerts.  
+  Monitored vehicle health (engine, brake, oil, etc.) in real time via sensor networks.  
+  Achieved **86% accuracy** in predicting failures using supervised ML models.  
+  Deployed models on **edge devices** for fleet-wide scalability and instant alerts.  
 
 ---
 
