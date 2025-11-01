@@ -46,7 +46,7 @@
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/siddarthamarka)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/siddartha-marka-27710a2a8/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siddarthamarka)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddarthamarka@gmail.com)  
 
