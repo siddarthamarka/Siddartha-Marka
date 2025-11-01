@@ -22,9 +22,9 @@ I’m also a **published author in Springer Nature** and have interned with repu
 ## 💼 Internships  
 
 ### 🌐 MERN Stack Development Intern – Shripadha Group *(May 2025 – Jul 2025)*  
-- Built **Expense Tracker Web App** using **React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT**.  
-- Added expense categorization, budgeting, and export options (CSV/PDF).  
-- Designed **Chart.js** dashboards for spending insights with real-time analytics.  
+Built **Expense Tracker Web App** using **React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT**.  
+Added expense categorization, budgeting, and export options (CSV/PDF).  
+Designed **Chart.js** dashboards for spending insights with real-time analytics.  
 
 ### 🤖 Machine Learning Intern – SDK Technologies *(Jun 2025 – Jul 2025)*  
 - Developed **“Soil Colour Analyzer”**, an ML web app to predict soil type & fertility using **Flask, OpenCV, scikit-learn**.  
@@ -137,19 +137,6 @@ I’m also a **published author in Springer Nature** and have interned with repu
 - 🚀 **Grand Challenge India 2024** – Reached 2nd Phase  
 - 🧩 **Joint Secretary** – Department of CSE (Networks), KITS Warangal  
 - 🏏 **Sports:** Cricket, Volleyball, Badminton  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddarthamarka&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddarthamarka&theme=radical" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddarthamarka&layout=compact&theme=radical" height="165">
-</p>
 
 ---
 
